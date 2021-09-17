@@ -45,7 +45,7 @@ Música principal
 
 .musica-principal {
     font-size: 16px;
-    background-image: url(/img/banner-home-Leo-Santana.jpg);
+    background-image: url(../img/banner-home-Leo-Santana.jpg);
     height: 500px;
     background-size: cover;
     display: flex;
